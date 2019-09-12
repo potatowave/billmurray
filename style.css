@@ -1,0 +1,10 @@
+body {
+    background-color: rebeccapurple;
+    color: yellow;
+}
+
+.bill {
+    border: 10px solid pink;
+    width: 300;
+    height: 200;
+}
